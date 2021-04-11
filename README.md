@@ -12,8 +12,7 @@
 
 ### Technology Known
 
-- Three – JS
-- Android Developer
+- Three – JS - Android Developer
 - Node Js
 - React Js
 - Ethical-Hacking
