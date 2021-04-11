@@ -10,8 +10,31 @@
 [<img src="https://img.shields.io/badge/-Binary Search-golden"/>](https://binarysearch.com/@/Akhil_Rautela)
 
 
+### Technology Known
+
+- Competitve Programming
+- Full Stack web developer
+- Three – JS
+- Android Developer
+- Node Js
+- React Js
+- Ethical-Hacking
+- Socket Programming
+- Deep learning
+- Linux
+- MYSQL and mongodb
+
+### Language Known
+
+- Python
+- C++
+- Java
+- C
+
+
 ### Connect with me
 [<img src="https://img.shields.io/badge/-Linked In-blue"/>](https://www.linkedin.com/in/akhil-rautela-404aab17a)
+
 
 <!--
 **AkhilRautela/AkhilRautela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
