@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[<img src="https://img.shields.io/badge/-Linked In-blue"/>](https://www.linkedin.com/in/akhil-rautela-404aab17a)
+
+
+
 <!--
 **AkhilRautela/AkhilRautela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
