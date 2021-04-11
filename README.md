@@ -9,13 +9,29 @@
 [<img src="https://img.shields.io/badge/-AtCoder-white"/>](https://atcoder.jp/users/Akhil_Rautela)
 [<img src="https://img.shields.io/badge/-Binary Search-golden"/>](https://binarysearch.com/@/Akhil_Rautela)
 
-
 ### Technology Known
 
-- Three – JS - Android Developer
+- React - JS , Node - JS and Three – JS 
+- Android Developer
+- Ethical-Hacking
+- Socket Programming
+- Deep learning
+- Linux
+- MYSQL and mongodb
+
+
+### 📫 How to reach me: ...
+[<img src="https://img.shields.io/badge/-Linked In-blue"/>](https://www.linkedin.com/in/akhil-rautela-404aab17a)
+
+
+<!--
+**AkhilRautela/AkhilRautela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technology Known
+
+- Three – JS 
+- Android Developer
 - Node Js
 - React Js
-- Ethical-Hacking
 - Socket Programming
 - Deep learning
 - Linux
@@ -27,14 +43,6 @@
 - C++
 - Java
 - C
-
-
-### Connect with me
-[<img src="https://img.shields.io/badge/-Linked In-blue"/>](https://www.linkedin.com/in/akhil-rautela-404aab17a)
-
-
-<!--
-**AkhilRautela/AkhilRautela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
