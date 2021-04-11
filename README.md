@@ -12,8 +12,6 @@
 
 ### Technology Known
 
-- Competitve Programming
-- Full Stack web developer
 - Three – JS
 - Android Developer
 - Node Js
