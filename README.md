@@ -12,12 +12,16 @@
 ### Technology Known
 
 - React - JS , Node - JS and Three – JS 
-- Android Developer
-- Ethical-Hacking
+- Android Developer - Java and Flutter
 - Socket Programming
 - Deep learning
-- Linux
 - MYSQL and mongodb
+
+### Language Known
+
+- Python
+- C++ and C
+- Java
 
 
 ### 📫 How to reach me: ...
