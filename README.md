@@ -7,7 +7,8 @@
 [<img src="https://img.shields.io/badge/-Leet Code-green"/>](https://leetcode.com/akhilrautela36/)
 [<img src="https://img.shields.io/badge/-Codeforces-orange"/>](https://codeforces.com/profile/Akhil_Rautela)
 [<img src="https://img.shields.io/badge/-Code Chef-blue"/>](https://www.codechef.com/users/akhilrautela)
-
+[<img src="https://img.shields.io/badge/-AtCoder-black"/>](https://atcoder.jp/users/Akhil_Rautela)
+[<img src="https://img.shields.io/badge/-Binary Search-red"/>](https://binarysearch.com/@/Akhil_Rautela)
 
 
 <!--
