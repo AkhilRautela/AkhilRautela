@@ -11,13 +11,13 @@
 
 
   
-| Technology Known                       | Language Known                |
-|:--------------------------------------:|:-----------------------------:|
-| React - JS , Node - JS and Three – JS  |              Python           | 
-| Android Developer - Java and Flutter   |              C++              |
-| Socket Programming                     |              Java             |
-| Deep learning                          |              C                |
-| MYSQL and mongodb                      |                               |
+| Technology Known                                             | Language Known                |
+|:------------------------------------------------------------:|:-----------------------------:|
+| React - JS , Node - JS and Three – JS                        |              Python           | 
+| Android Developer - Java and Flutter                         |              C++              |
+| Socket Programming                                           |              Java             |
+| Deep learning                                                |              C                |
+| MYSQL and mongodb                                            |                               |
 
   
 
