@@ -26,7 +26,7 @@
 
 ### 📫 How to reach me: ...
 [<img src="https://img.shields.io/badge/-Linked In-blue"/>](https://www.linkedin.com/in/akhil-rautela-404aab17a)
-[<img src="https://img.shields.io/badge/-G Mail-red"/>](mailto:akhilrautela36@gmail.com)
+[<img src="https://img.shields.io/badge/-E Mail-red"/>](mailto:akhilrautela36@gmail.com)
 
 
 <!--
