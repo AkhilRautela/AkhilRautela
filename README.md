@@ -9,7 +9,7 @@
 [<img src="https://img.shields.io/badge/-AtCoder-white"/>](https://atcoder.jp/users/Akhil_Rautela)
 [<img src="https://img.shields.io/badge/-Binary Search-golden"/>](https://binarysearch.com/@/Akhil_Rautela)
 
-<br></br>
+<hr></hr>
 
 
 | Technology Known                                             | Language Known                |
