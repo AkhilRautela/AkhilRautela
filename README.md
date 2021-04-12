@@ -9,7 +9,7 @@
 [<img src="https://img.shields.io/badge/-AtCoder-white"/>](https://atcoder.jp/users/Akhil_Rautela)
 [<img src="https://img.shields.io/badge/-Binary Search-golden"/>](https://binarysearch.com/@/Akhil_Rautela)
 
-<div>
+
   
 ### Technology Known
 
@@ -19,16 +19,12 @@
 - Deep learning
 - MYSQL and mongodb
 
-</div>
-
-<div>
+  
 ### Language Known
 
 - Python
 - C++ and C
 - Java
-</div>
-
 
 ### Github Stats - Akhil Rautela
 
