@@ -10,24 +10,19 @@
 [<img src="https://img.shields.io/badge/-Binary Search-golden"/>](https://binarysearch.com/@/Akhil_Rautela)
 
 
-<div style="display:flex;">
   
-### Technology Known
-
-- React - JS , Node - JS and Three – JS 
-- Android Developer - Java and Flutter
-- Socket Programming
-- Deep learning
-- MYSQL and mongodb
+### Technology Known                     |   ### Language Known
+                                         |
+- React - JS , Node - JS and Three – JS  |   - Python
+- Android Developer - Java and Flutter   |   - C++
+- Socket Programming                     |   - Java
+- Deep learning                          |   - C
+- MYSQL and mongodb                      |
 
   
-### Language Known
 
-- Python
-- C++ and C
-- Java
 
-</div>
+
   
 ### Github Stats - Akhil Rautela
 
