@@ -10,6 +10,7 @@
 [<img src="https://img.shields.io/badge/-Binary Search-golden"/>](https://binarysearch.com/@/Akhil_Rautela)
 
 
+<div style="display:flex;">
   
 ### Technology Known
 
@@ -26,6 +27,8 @@
 - C++ and C
 - Java
 
+</div>
+  
 ### Github Stats - Akhil Rautela
 
 <img src="https://github-readme-stats.vercel.app/api?username=AkhilRautela&hide_title=true&show_owner=true&show_icons=true&hide_border=true&theme=dark" />
