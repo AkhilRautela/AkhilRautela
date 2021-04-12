@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<img src="https://img.shields.io/badge/-Hit Count -blue"/><img src="https://komarev.com/ghpvc/?username=AkhilRautela"/>
 
 ### Coding Profiles
 [<img src="https://img.shields.io/badge/-Leet Code-green"/>](https://leetcode.com/akhilrautela36/)
