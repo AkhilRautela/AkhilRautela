@@ -9,6 +9,8 @@
 [<img src="https://img.shields.io/badge/-AtCoder-white"/>](https://atcoder.jp/users/Akhil_Rautela)
 [<img src="https://img.shields.io/badge/-Binary Search-golden"/>](https://binarysearch.com/@/Akhil_Rautela)
 
+<div>
+  
 ### Technology Known
 
 - React - JS , Node - JS and Three – JS 
@@ -17,12 +19,20 @@
 - Deep learning
 - MYSQL and mongodb
 
+</div>
+
+<div>
 ### Language Known
 
 - Python
 - C++ and C
 - Java
+</div>
 
+
+### Github Stats - Akhil Rautela
+
+<img src=https://github-readme-stats.vercel.app/api?username=AkhilRautela&hide_title=true&show_owner=true&show_icons=true&hide_border=true&theme=dark" />
 
 ### 📫 How to reach me: ...
 [<img src="https://img.shields.io/badge/-Linked In-blue"/>](https://www.linkedin.com/in/akhil-rautela-404aab17a)
