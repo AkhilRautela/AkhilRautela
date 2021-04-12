@@ -14,7 +14,7 @@
 
 | Technology Known                                             | Language Known                |
 |:------------------------------------------------------------:|:-----------------------------:|
-| React - JS , Node - JS and Three – JS                        |              Python           | 
+| React - JS , Node - JS and Three – JS  &emsp;   &emsp;   &emsp;                      |              Python           | 
 | Android Developer - Java and Flutter                         |              C++              |
 | Socket Programming                                           |              Java             |
 | Deep learning                                                |              C                |
