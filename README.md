@@ -14,11 +14,11 @@
 
 | Technology Known                                             | Language Known                |
 |:------------------------------------------------------------:|:-----------------------------:|
-|  &emsp;   &emsp;   &emsp; React - JS , Node - JS and Three – JS  &emsp;   &emsp;   &emsp;                      |              Python           | 
-|  &emsp;   &emsp;   &emsp; Android Developer - Java and Flutter   &emsp;   &emsp;   &emsp;                        |              C++              |
-|  &emsp;   &emsp;   &emsp; Socket Programming  &emsp;   &emsp;   &emsp;                                           |              Java             |
-|  &emsp;   &emsp;   &emsp; Deep learning       &emsp;   &emsp;   &emsp;                                         |              C                |
-|  &emsp;   &emsp;   &emsp; MYSQL and mongodb    &emsp;   &emsp;   &emsp;                                    |                               |
+|&emsp;&emsp;&emsp; React - JS , Node - JS and Three – JS  &emsp;&emsp;&emsp;| &emsp;&emsp;&emsp; Python  &emsp;&emsp;&emsp;| 
+|&emsp;&emsp;&emsp; Android Developer - Java and Flutter &emsp;&emsp;&emsp;  | &emsp;&emsp;&emsp; C++     &emsp;&emsp;&emsp;|
+|&emsp;&emsp;&emsp; Socket Programming &emsp;&emsp;&emsp;                    | &emsp;&emsp;&emsp; Java    &emsp;&emsp;&emsp;|
+|&emsp;&emsp;&emsp; Deep learning   &emsp;&emsp;&emsp;                       | &emsp;&emsp;&emsp; C       &emsp;&emsp;&emsp;|
+|&emsp;&emsp;&emsp; MYSQL and mongodb  &emsp;&emsp;&emsp;                    |                             |
 
   
 
